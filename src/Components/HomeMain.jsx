@@ -4,7 +4,7 @@ import Section from "./Section";
 import AlmarisIntroBlock from "./AlmarisIntroBlock";
 import FacilitiesSection from "./FacilitiesSection";
 import VL from "./Vl";
-import TestimonialSection from "./TestimonialSection.JSX";
+import TestimonialSection2 from "./TestimonialSection2";
 import RoomsSection from "./RoomsSection";
 import SpecialOffersSection from "./SpecialOffersSection";
 import InstagramFeedSection from "./InstagramFeedSection";
