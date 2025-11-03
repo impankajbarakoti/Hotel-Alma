@@ -17,7 +17,7 @@ const HomeMain = () => {
       <AlmarisIntroBlock />
       <FacilitiesSection />     
       <VL />
-      <TestimonialSection />
+      <TestimonialSection2/>
       <RoomsSection />
       <SpecialOffersSection />
       <InstagramFeedSection/>
