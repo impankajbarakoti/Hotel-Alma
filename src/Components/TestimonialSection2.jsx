@@ -31,8 +31,8 @@ const TestimonialSection2 = () => {
   };
 
   return (
-    <div className="flex flex-col items-center justify-center min-h-screen bg-gray-50 p-4 font-sans text-gray-800">
-      <div className="w-full max-w-3xl text-center px-4 md:px-8 py-12 rounded-lg">
+    <div className="flex flex-col items-center  justify-center md:min-h-screen bg-gray-50 p-4 font-sans text-gray-800">
+      <div className="w-full max-w-3xl text-center px-4 md:px-8  rounded-lg">
         {/* Quotation mark icon */}
         <span
           className="inline-block text-6xl text-amber-700 opacity-75 mb-6 leading-none select-none"

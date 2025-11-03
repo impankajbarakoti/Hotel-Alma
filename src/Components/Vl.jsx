@@ -13,7 +13,7 @@ const VL = () => {
   return (
     // Main Section Container: Ensures the component takes up the full viewport height on small screens
     // and centers the content.
-    <div className="min-h-screen bg-gray-50 flex items-center justify-center p-4 md:p-8">
+    <div className="min-h-screen bg-gray-50 flex items-center justify-center p-4 md:p-8 ">
       {/* Visual Component Card/Area */}
       <div
         className="w-full max-w-7xl h-[400px] md:h-[600px] rounded-2xl shadow-2xl overflow-hidden relative transition-all duration-300"

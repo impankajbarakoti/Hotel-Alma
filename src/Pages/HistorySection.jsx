@@ -9,7 +9,7 @@ const HistorySection = () => {
   });
 
   return (
-    <section className="bg-white py-16 px-4 sm:px-6 lg:px-8 font-sans">
+    <section className="bg-white -mt-12 px-4 sm:px-6 lg:px-8 font-sans">
       <div className="max-w-7xl mx-auto grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-16 items-start">
         {/* --- Left Column: Text Content --- */}
         <div className="lg:pr-8">
